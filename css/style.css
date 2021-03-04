@@ -84,7 +84,7 @@ body {
   background-image: url(../images/section-title-line.svg);
   background-size: cover;
 }
-.section-title.section-title--black {
+.section-title--black {
   color: #233148;
 }
 @media only screen and (max-width: 767px) {
